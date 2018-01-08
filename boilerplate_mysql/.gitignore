@@ -1,0 +1,7 @@
+/application/config/config.php
+/application/config/database.php
+/application/config/mail.php
+/application/logs/*.php
+/assets/css/project.css
+/assets/js/project.js
+/gen-modules

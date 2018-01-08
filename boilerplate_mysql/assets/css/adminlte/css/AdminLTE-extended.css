@@ -1,0 +1,40 @@
+/************************************
+* AdminLTE Extened
+*************************************/
+
+.dropdown-menu > li > a:hover {
+	background-color: #3c8dbc;
+	color: #f9f9f9!important;
+}
+
+.content-header > h1 {
+	font-size: 18px;
+	padding-left: 2px;
+	text-transform: uppercase;
+}
+.content-header > h1 > small {
+	font-size: 13px;
+	padding-left: 5px;
+}
+
+.btn-box-tool {
+	color: #fff!important;
+}
+
+.info-box {
+	min-height:80px;
+	height:80px;
+}
+.info-box-icon-extended {
+	width: 25px;
+	height: 80px;
+}
+
+.info-box-content-extended {
+	font-size: 16px;
+    margin-left: 25px;
+    padding: 30px 15px;
+    text-transform: uppercase;
+}
+
+.table { margin-bottom: 0px;}
